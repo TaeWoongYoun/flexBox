@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.mainBox{
+    display: flex;
+    justify-content: center;
+}
+
+.subBox{
+    width: 150px;
+    height: 70px;
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+.logoBox{
+    font-size: 38px;
+    font-weight: 900;
+    line-height: 60px;
+}
+
+.sideBox{
+    font-size: 30px;
+    line-height: 60px;
+}
